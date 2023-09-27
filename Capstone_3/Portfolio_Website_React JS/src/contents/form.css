@@ -1,0 +1,11 @@
+.division{
+    text-align: center;
+    border: 2px ridge slateblue;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px lightslategray;
+    height: 420px;
+    width: 400px;
+    margin-left: 20%;
+    margin-right: 35%;
+    margin-top: 6%;
+}
